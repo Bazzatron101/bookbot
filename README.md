@@ -1,2 +1,3 @@
 # bookbot
-boot.dev character counter for books I think
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
